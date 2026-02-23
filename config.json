@@ -1,53 +1,54 @@
 {
   "hotel": {
-    "name": "Hotel Musterhaus",
-    "id": "A0000",
-    "url": "https://www.example.com",
-    "favicon": "https://www.example.com/favicon.ico",
-    "phone": "+39 0474 000000",
-    "email": "info@example.com",
-    "bookingUrl": "https://www.example.com/buchen"
+    "name": "Hotel Chalet Olympia",
+    "id": "A1019",
+    "url": "http://www.chaletolympia.it/",
+    "favicon": "https://www.chaletolympia.it/default/clients/1885/images/favicon/favicon-96x96.png",
+    "logo": "https://www.chaletolympia.it/default/clients/1885/images/logo.png",
+    "phone": "",
+    "email": "",
+    "bookingUrl": "http://www.chaletolympia.it/"
   },
   "theme": {
     "colors": {
-      "primary": "#2c5f2d",
-      "secondary": "#97bc62",
-      "accent": "#d4a843",
-      "text": "#1a1a1a",
-      "textLight": "#6b7280",
-      "background": "#fafaf8",
-      "backgroundAlt": "#f0ebe3",
+      "primary": "#2c3e50",
+      "secondary": "#34495e",
+      "accent": "#e74c3c",
+      "text": "#2c3e50",
+      "textLight": "#7f8c8d",
+      "background": "#ffffff",
+      "backgroundAlt": "#f8f9fa",
       "white": "#ffffff"
     },
     "fonts": {
-      "heading": "Cormorant Garamond",
-      "body": "Lato"
+      "heading": "Playfair Display",
+      "body": "Open Sans"
     }
   },
   "hero": {
-    "text": "Willkommen im Paradies",
-    "description": "Erleben Sie unvergessliche Momente inmitten der Südtiroler Bergwelt. Ihr Rückzugsort für Körper und Seele.",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600&q=80",
+    "text": "Dolomiten erleben im Chalet Olympia",
+    "description": "Naturnah entspannen in Taisten, umgeben von majestätischen Bergen. Genießen Sie unvergessliche Momente in unserem gemütlichen Chalet mit authentischer Küche.",
+    "image": "https://www.chaletolympia.it/images/content/1219727_71158_1_C_1400_787_1885_403031857/hotel-chalet-olympia-el-29.jpg",
     "ctaText": "Jetzt anfragen",
-    "ctaUrl": "https://www.example.com/buchen"
+    "ctaUrl": "http://www.chaletolympia.it/"
   },
   "sections": {
     "about": {
       "enabled": true,
       "title": "Über uns",
-      "text": "Seit Generationen heißen wir Gäste aus aller Welt willkommen. Unser Haus verbindet alpinen Charme mit modernem Komfort.",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80"
+      "text": "Unser Chalet Olympia liegt malerisch im Dorf Taisten, umgeben von Bergen, Wald und Wiesen. Das perfekte Ferien-Zuhause für entspannte Tage im Pustertal mit neapolitanischer Pizza und Südtiroler Spezialitäten.",
+      "image": "https://www.chaletolympia.it/images/content/1219727_71158_1_C_800_450_1885_403031857/hotel-chalet-olympia-el-29.jpg"
     },
     "gallery": {
       "enabled": true,
       "title": "Impressionen",
       "images": [
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
-        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600&q=80",
-        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=600&q=80",
-        "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=600&q=80",
-        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80",
-        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80"
+        "https://www.chaletolympia.it/images/content/1219727_71158_1_C_800_450_1885_403031857/hotel-chalet-olympia-el-29.jpg",
+        "https://www.chaletolympia.it/images/content/1227254_71158_1_C_800_450_1885_408359990/dsc-0766.jpg",
+        "https://www.chaletolympia.it/images/content/1216978_71158_1_C_500_281_1885_403028355/hotel-chalet-olympia-el-68.jpg",
+        "https://www.chaletolympia.it/images/content/1219746_71158_1_C_500_281_1885_393898355/hotel-chalet-olympia-el-4.jpg",
+        "https://www.chaletolympia.it/images/content/1216979_71158_1_C_500_281_1885_393898323/landschaften-taisten-el-18.jpg",
+        "https://www.chaletolympia.it/images/content/1216977_71158_1_C_460_350_1885_409088028/w-tobogganing-tvb-kronplatz-photo-helmuth-rier-20120221-4007-sennes-senes.jpg"
       ]
     },
     "cta": {
@@ -55,10 +56,10 @@
       "title": "Bereit für Ihren Traumurlaub?",
       "text": "Sichern Sie sich jetzt Ihren Wunschtermin.",
       "buttonText": "Verfügbarkeit prüfen",
-      "buttonUrl": "https://www.example.com/buchen"
+      "buttonUrl": "http://www.chaletolympia.it/"
     }
   },
   "footer": {
-    "text": "© 2026 Hotel Musterhaus. Alle Rechte vorbehalten."
+    "text": "© 2026 Hotel Chalet Olympia. Alle Rechte vorbehalten."
   }
 }
